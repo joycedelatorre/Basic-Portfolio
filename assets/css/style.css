@@ -1,0 +1,171 @@
+body{
+	background-image: url("../images/cork-wallet/cork-wallet.png");
+}
+header{
+	background-color: blue;
+	height:10%;
+}
+
+#your_name{
+	background-color: #4aaaa5;
+	width:20%;
+	height:48px;
+	color:white;
+	text-align: center;
+	padding: 10px;
+	float:left;
+	margin-left:200px;
+	margin-top: 30px;
+	font-size:45px;
+}
+
+#menu{
+	height:100px; 
+	background-color: pink;
+	float:left;
+	width:700px;
+	float:right;
+	margin-right:200px;
+}
+
+
+#about{
+	background-color:#ffffff;
+	color:#777777;
+	float:right;
+	width:100px;
+	font-family:arial;
+	font-size:20px;
+	border-right: 3px #dddddd solid;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#port{
+	background-color:#ffffff;
+	color:#777777;
+	float:right;
+	width:100px;
+	font-family:arial;
+	font-size:20px;
+	border-right: 3px #dddddd solid;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#contact{
+	background-color:#ffffff;
+	color:#777777;
+	float:right;
+	width:100px;
+	font-family:arial;
+	font-size:20px;
+	text-align: center;
+	margin-top: 50px;
+	margin-right:200px;
+}
+/* ---------below is for about me section ---------------*/
+#container{ /* wrapper for about me and connect with me */
+	background-color: yellow;
+	width: 70%;
+	height: 70%;
+	border-top: 2px #d3d3d3 solid;
+	margin:auto;
+}
+
+#about_me{      /* wrapper for about me holds the abt_header image and paragraph */
+	background-color: red;
+	width:50%;
+	height:80%;
+	float:left;
+	margin:20px;
+}
+ #abt_header{
+ 	background-color:green;
+ 	height:60px;
+ 	font-size:40px;
+ 	margin:20px;
+ 	color: #4aaaa5;
+ 	border-bottom: 3px #dddddd solid;
+ }
+
+ #image{
+ 	width:200px;
+ 	height: 200px;
+ 	background-color: black;
+ 	float:left;
+ 	margin-left: 20px;
+ }
+
+
+ #paragraph1{
+ 	background-color: pink;
+ 	width:400px;
+ 	height: 200px;
+ 	float:left;
+ }
+
+ #paragraph2{
+ 	background-color:green;
+ 	width:600px;
+ 	height: 200px;
+ 	float:left;
+ 	margin:20px;
+
+ }
+
+
+#connect_with_me{
+	background-color: blue;
+	width:30%;
+	height:300px;
+	float:left;
+	margin:20px;
+}
+
+#cwm_header{
+	background-color:green;
+	text-align: center;
+	width:350px;
+ 	height:60px;
+ 	font-size:30px;
+ 	margin:20px;
+ 	color: #4aaaa5;
+ 	border-bottom: 3px #dddddd solid;
+}
+
+.icons{
+	float:left;
+	width:100px;
+	height:100px;
+	background-color: violet;
+	margin:15px;
+}
+
+#footer{
+	background-color:#666666;
+	height:10%;
+}
+#footer_label{
+	width:400px;
+	height:50px;
+	color:white;
+	font-family:arial;
+	margin:auto;
+	padding-top: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
