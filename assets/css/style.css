@@ -2,7 +2,7 @@ body{
 	background-image: url("../images/cork-wallet/cork-wallet.png");
 }
 header{
-	background-color: blue;
+	background-color: white;
 	height:10%;
 }
 
@@ -14,14 +14,14 @@ header{
 	text-align: center;
 	padding: 10px;
 	float:left;
-	margin-left:200px;
+	margin-left:287px;
 	margin-top: 30px;
 	font-size:45px;
 }
 
 #menu{
-	height:100px; 
-	background-color: pink;
+	height:90px; 
+	background-color: white;
 	float:left;
 	width:700px;
 	float:right;
@@ -68,8 +68,8 @@ header{
 #container{ /* wrapper for about me and connect with me */
 	background-color: yellow;
 	width: 70%;
-	height: 70%;
-	border-top: 2px #d3d3d3 solid;
+	height: 75%;
+	border-top: 3px #d3d3d3 solid;
 	margin:auto;
 }
 
@@ -142,17 +142,23 @@ header{
 	margin:15px;
 }
 
+/*#breaker_teal{
+	background-color: #4aaaa5;
+	height:10px;
+}*/
+
 #footer{
-	background-color:#666666;
+	background-color: #4aaaa5;
 	height:10%;
+	padding-top: 10px;
 }
 #footer_label{
-	width:400px;
-	height:50px;
+	background-color:#666666;
+	height:100px;
 	color:white;
 	font-family:arial;
-	margin:auto;
-	padding-top: 40px;
+	text-align: center;
+	padding-top: 50px;
 
 }
 
